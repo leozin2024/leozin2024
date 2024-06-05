@@ -1,8 +1,8 @@
-## Olá,seja bem vindo ao meu perfil: 👽
+## Olá,seja bem vindo ao meu perfil: 👽 
 
 Meu nome é Leonardo Ladeia 
 -Estou estudando Alura
--Estou me desenvolvendo na linguagem JvaScript
+-Estou me desenvolvendo na linguagem JavaScript
 -Utilizo esse espaço para a minha organização e compartilhamento dos meus projetos desenvolvidos 
 
 
