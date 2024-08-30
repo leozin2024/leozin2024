@@ -4,6 +4,7 @@ Meu nome é Leonardo Ladeia
 -Estou estudando Alura
 -Estou me desenvolvendo na linguagem JavaScript
 -Utilizo esse espaço para a minha organização e compartilhamento dos meus projetos desenvolvidos 
+-tenho 17 anos
 
 
 ## Você pode entrar em contato comigo 📫:
